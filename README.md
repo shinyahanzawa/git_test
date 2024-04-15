@@ -1,2 +1,2 @@
-# git_test_master
+# git_test_masters
 
